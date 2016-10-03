@@ -1,2 +1,5 @@
 # hello-world
-My first repository in gitHub
+
+Hey,
+
+I mistakenly changed the master.
